@@ -10,4 +10,14 @@ This study involves research conducted on bacteria to synthesize proteins that t
 Research was conducted and results tabulate (attached samples.json file) on bacteria from the human body, and more specifically for this report, in the bellybutton.  
 
 The final visualization is attractive, accessible and interactive.
- 
+
+## Please Note:
+
+A picure has been added to the jumbotron (see below).  While localhosting, the picture is rendered.  However, within Github, it does not.   
+
+This Belly Button Biodiversity site is published at https://mikehankinson.github.io/Biodiversity/
+<br>
+<br>
+![Fig_1](static/images/localhost_view.JPG)
+<br>
+<br>
